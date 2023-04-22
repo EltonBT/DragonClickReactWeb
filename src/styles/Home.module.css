@@ -17,6 +17,17 @@
   font-family: 'Berkshire Swash', sans-serif;
   margin-top: 12px;
 }
+@media (max-width: 700px){
+  .cardPlayer {
+  display: flex;
+  background-color: rgb(223, 143, 57) !important;
+  color: whitesmoke;
+  opacity: 0.8;
+  font-family: 'Berkshire Swash', sans-serif;
+  margin-top: 12px;
+}
+}
+
 
 .footer {
   position: fixed;
