@@ -20,7 +20,7 @@ export default function Home() {
     <>
       <Container fixed className={styles.content}>
         <div className={styles.header}>
-          <Image src={"/logo.png"} width={200} height={140} />
+          <img src={'logo.png'} width={200} height={140} />
         </div>
 
         <Card className={styles.cardPlayer}>
