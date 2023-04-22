@@ -1,7 +1,6 @@
 {
   "name": "dragon-click-react",
   "homepage": "https://eltonbt.github.io/DragonClickReactWeb",
-  "export": "next export",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +8,7 @@
     "build": "next build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },
