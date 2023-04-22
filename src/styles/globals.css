@@ -83,10 +83,27 @@
 
 html,
 body {
-  max-width: 100vw;
   overflow-x: hidden;
-  background-color: darkblue;
+  background-color: black;
+  background-image: url('../../public/background.png');
   font-family: 'Berkshire Swash', sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+@media (max-width: 700px)
+{
+  html,
+  body {
+    overflow-x: hidden;
+    background-color: black;
+    background-image: url('../../public/small_bg.png');
+    font-family: 'Berkshire Swash', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
 }
 
 /* body {
