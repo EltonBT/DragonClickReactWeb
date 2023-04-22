@@ -85,7 +85,7 @@ html,
 body {
   overflow-x: hidden;
   background-color: black;
-  background-image: url('/public/background.png');
+  background-image: url('https://i.pinimg.com/originals/a2/e1/3f/a2e13ff9f64f451828480263b259ab93.jpg');
   font-family: 'Berkshire Swash', sans-serif;
   background-repeat: no-repeat;
   background-size: cover;
@@ -98,7 +98,7 @@ body {
   body {
     overflow-x: hidden;
     background-color: black;
-    background-image: url('/public/small_bg.png');
+    background-image: url('https://i.pinimg.com/564x/62/f8/52/62f85252fb98cb626163f1bb8735721f.jpg');
     font-family: 'Berkshire Swash', sans-serif;
     background-repeat: no-repeat;
     background-size: cover;
