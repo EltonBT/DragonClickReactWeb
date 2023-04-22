@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/berkshire-swash');
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
@@ -84,6 +86,7 @@ body {
   max-width: 100vw;
   overflow-x: hidden;
   background-color: darkblue;
+  font-family: 'Berkshire Swash', sans-serif;
 }
 
 /* body {
